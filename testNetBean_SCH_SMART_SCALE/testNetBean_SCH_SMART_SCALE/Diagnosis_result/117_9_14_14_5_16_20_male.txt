@@ -1,0 +1,1 @@
+male,30,weight:0,NSR,nonsmoker,ETC:,no
